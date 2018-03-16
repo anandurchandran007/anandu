@@ -1,0 +1,1 @@
+After pressing Enter, you are not returned to the prompt. Instead, the cursor is placed on the next line, allowing you to enter text into your file. Type your lines of text, pressing Enter after each one. When you are done, press Ctrl + D to exit the file and return to the prompt.
