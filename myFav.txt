@@ -1,7 +1,1 @@
 Vi opens in command mode. To type text into the editor, type a lowercase “i” to enter editing mode. Type your text and press Esc to return to command mode. To close Vi and save your file, type “:wq” and press Enter.
-asdjdfklj
-fklf
-af;alf;
-af;af;
-fddh
-g
